@@ -9,8 +9,6 @@
 ## 最後に  
 
 このリポジトリをご閲覧いただきありがとうございます。  
-このプロジェクトは国立情報学研究所のIDRユーザーフォーラムでも公開しています。  
-IDRユーザーフォーラム：[https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html](https://www.nii.ac.jp/dsc/idr/userforum/program_2020.html)  
 もしも、このプロジェクトに興味を持って頂けた方がいらっしゃったら幸いです。  
 
 最近は、AtCoderというプログラミングコンテストに毎週参加しています。  
